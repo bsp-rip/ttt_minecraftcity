@@ -1,0 +1,28 @@
+LightmappedGeneric
+{
+	"$abovewater" "1"
+	"$basetexture"	"minecraft\water_moving"
+	"$translucent" "1"
+
+	"%compilewater" "1"
+	"$surfaceprop" "water"
+
+	"$bottommaterial" "minecraft\waterbeneath_moving"
+	
+	"$alpha" "0.97"
+
+	"$fogenable" "1"
+	"$fogcolor" "{23 90 234}"
+	"$fogstart" "0"
+	"$fogend" "450"
+
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$baseTextureTransform"
+			"texturescrollrate" ".16"
+			"texturescrollangle" "270.00"
+		}
+	}
+}

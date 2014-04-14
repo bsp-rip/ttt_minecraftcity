@@ -1,0 +1,29 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "custom/MCportal"
+	"$surfaceprop" "slime"
+	"$selfillum" "1"
+
+	"Proxies"
+	{
+
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$basetexture"
+			"animatedtextureframenumvar" "$frame"
+			"animatedtextureframerate" 4.00
+		}
+
+		//"TextureScroll"
+		//{
+		//	"texturescrollvar" "$baseTextureTransform"
+		//	"texturescrollrate" 0.1
+		//	"texturescrollangle" 30.00
+		//
+		//}
+		//"WaterLOD"
+		//{
+		//}
+	}
+}
+

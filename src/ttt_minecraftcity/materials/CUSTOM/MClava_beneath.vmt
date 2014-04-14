@@ -1,0 +1,39 @@
+"LightmappedGeneric"
+{
+	"%tooltexture" "custom/MClava"
+	"%compilewater" "1"
+	"%compileKeepLight" 1
+
+	"$basetexture" "custom/MClava"
+	"$surfaceprop" "slime"
+
+	"$abovewater" "0"
+
+	"$fogenable" 1
+	"$fogcolor" "{245 80 26}"
+	"$fogstart" "-500"
+	"$fogend" "200"
+
+	"$scroll1" "[.01 .01 .05]"
+	"$scroll2" "[-.025 .025 .075]"
+
+	"Proxies"
+	{
+
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$basetexture"
+			"animatedtextureframenumvar" "$frame"
+			"animatedtextureframerate" 5.00
+		}
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$baseTextureTransform"
+			"texturescrollrate" 0.1
+			"texturescrollangle" 30.00
+
+		}
+	}
+}
+

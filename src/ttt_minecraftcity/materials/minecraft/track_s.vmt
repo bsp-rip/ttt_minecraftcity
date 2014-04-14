@@ -1,0 +1,5 @@
+LightmappedGeneric
+{	$basetexture minecraft\track_s
+	$surfaceprop metal
+	$translucent 1
+}

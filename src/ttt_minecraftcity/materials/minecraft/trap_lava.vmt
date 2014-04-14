@@ -1,0 +1,9 @@
+LightmappedGeneric
+{	
+	"$basetexture" "minecraft\trap_lava"
+	"$bottommaterial" "minecraft\trap_lava_beneath"
+	"$surfaceprop" "water"
+	
+
+	"$alpha" "0.9"
+}

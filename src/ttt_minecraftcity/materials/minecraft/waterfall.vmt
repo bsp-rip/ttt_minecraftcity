@@ -1,0 +1,17 @@
+LightmappedGeneric
+{
+	"$basetexture"	"minecraft/waterfall"
+	"$alpha" "0.9"
+	"$translucent"	"1"
+	"$surfaceprop" "water"
+
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$baseTextureTransform"
+			"texturescrollrate" .15
+			"texturescrollangle" 270.00
+		}
+	}
+}

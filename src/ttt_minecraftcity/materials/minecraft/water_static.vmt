@@ -1,0 +1,20 @@
+LightmappedGeneric
+{	
+	"$abovewater" "1"
+	"$basetexture" "minecraft\water_static"
+	"$refracttexture" "_rt_WaterRefraction"
+
+	"$translucent" "1"
+
+	"%compilewater" "1"
+	"$surfaceprop" "water"
+
+	"$alpha" "0.97"
+
+	"$fogenable" "1"
+	"$fogcolor" "{23 90 234}"
+	"$fogstart" "0"
+	"$fogend" "450"
+
+	"$bottommaterial" "minecraft\water_beneath"
+}

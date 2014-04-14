@@ -1,0 +1,7 @@
+LightmappedGeneric
+{	
+	$basetexture minecraft\yellowrose
+	$surfaceprop grass
+	$translucent 1
+	$nocull 1
+}

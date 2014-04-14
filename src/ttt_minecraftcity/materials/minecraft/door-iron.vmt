@@ -1,0 +1,5 @@
+LightmappedGeneric
+{	$basetexture minecraft\door-iron
+	$surfaceprop metal
+	$translucent 1
+}

@@ -1,0 +1,4 @@
+LightmappedGeneric
+{	$basetexture minecraft\cactus-top
+	$surfaceprop grass
+}

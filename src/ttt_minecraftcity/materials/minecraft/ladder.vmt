@@ -1,0 +1,5 @@
+LightmappedGeneric
+{	$basetexture minecraft\ladder
+	$surfaceprop wood
+	$translucent 1
+}

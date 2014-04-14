@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "custom/MCdamage2_overlay"
+	"$surfaceprop" "rock"
+	"$translucent" 1
+	"$nocull" 1
+}

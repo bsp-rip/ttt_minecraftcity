@@ -1,0 +1,41 @@
+"LightmappedGeneric"
+{
+	//"%tooltexture" "custom/MCwater"
+	//"%compilewater" "1"
+	//"%compileKeepLight" 1 //???
+
+
+	"$basetexture" "custom/MCwater"
+	"$surfaceprop" "water"
+	//"$trancelucent" "1"
+	"$alpha" "0.9"
+	//"$selfillum" "1"
+	//"$selfillumtint" [.15 .15 .85]
+
+	//"$abovewater" "1"
+
+	//"$fogenable" 1
+	//"$fogcolor" "{11 3 200}"
+	//"$fogstart" "-400"
+	//"$fogend" "1000"
+
+	//"$bottommaterial" "custom/MCwater_beneath"
+
+	"Proxies"
+	{
+	//"AnimatedTexture"
+	//	{
+	//	"animatedtexturevar" "$basetexture"
+	//	"animatedtextureframenumvar" "$frame"
+	//	"animatedtextureframerate" 8.00
+	//	}
+			"TextureScroll"
+		{
+			"texturescrollvar" "$baseTextureTransform"
+			"texturescrollrate" 1
+			"texturescrollangle" 0.00
+
+		}
+	}
+}
+

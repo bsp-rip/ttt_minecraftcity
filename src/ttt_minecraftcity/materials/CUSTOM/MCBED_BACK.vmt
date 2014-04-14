@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "custom/MCbed_back"
+	"$alphatest" 1
+}

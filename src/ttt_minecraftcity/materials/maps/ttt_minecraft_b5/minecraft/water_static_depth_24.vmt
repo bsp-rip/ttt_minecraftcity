@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/minecraft/water_static.vmt"
+	"insert"
+	{
+		"$waterdepth"		"24"
+	}
+}

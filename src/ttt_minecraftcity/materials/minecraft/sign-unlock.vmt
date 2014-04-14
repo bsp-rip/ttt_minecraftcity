@@ -1,0 +1,4 @@
+LightmappedGeneric
+{	$basetexture minecraft\sign-unlock
+	$surfaceprop wood
+}

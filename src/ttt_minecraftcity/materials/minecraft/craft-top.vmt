@@ -1,0 +1,4 @@
+LightmappedGeneric
+{	$basetexture minecraft\craft-top
+	$surfaceprop wood
+}

@@ -1,0 +1,4 @@
+LightmappedGeneric
+{	$basetexture minecraft\furnace-top
+	$surfaceprop rock
+}

@@ -1,0 +1,5 @@
+LightmappedGeneric
+{	
+	$basetexture minecraft\cart\side_in
+	$surfaceprop metal
+}

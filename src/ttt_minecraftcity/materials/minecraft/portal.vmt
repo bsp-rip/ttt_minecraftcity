@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{	"$basetexture" "minecraft\portal"
+	"$translucent" "1"
+	"$alpha" "0.95"
+}

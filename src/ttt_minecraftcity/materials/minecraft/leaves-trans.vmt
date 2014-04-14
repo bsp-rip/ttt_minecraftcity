@@ -1,0 +1,6 @@
+LightmappedGeneric
+{	$basetexture minecraft\leaves-trans
+	$translucent 1
+	$nocull 0
+	$surfaceprop grass
+}

@@ -1,0 +1,5 @@
+LightmappedGeneric
+{	$basetexture minecraft\hatch
+	$surfaceprop wood
+	$translucent 1
+}

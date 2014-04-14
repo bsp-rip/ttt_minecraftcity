@@ -1,0 +1,4 @@
+LightmappedGeneric
+{	$basetexture minecraft\cobblestone
+	$surfaceprop rock
+}

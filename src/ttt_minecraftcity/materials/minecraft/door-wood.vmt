@@ -1,0 +1,5 @@
+LightmappedGeneric
+{	$basetexture minecraft\door-wood
+	$surfaceprop wood
+	$alphatest 1
+}

@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "custom/MCfurnace_front_on"
+	"$surfaceprop" "Concrete"
+	"$selfillum" "1"
+}

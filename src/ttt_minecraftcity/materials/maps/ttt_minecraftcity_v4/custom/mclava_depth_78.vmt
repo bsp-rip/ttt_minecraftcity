@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/custom/mclava.vmt"
+	"insert"
+	{
+		"$waterdepth"		"78"
+	}
+}

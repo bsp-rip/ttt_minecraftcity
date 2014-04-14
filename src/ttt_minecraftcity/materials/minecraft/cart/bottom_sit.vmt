@@ -1,0 +1,4 @@
+LightmappedGeneric
+{	$basetexture minecraft\bottom_sit
+	$surfaceprop metal
+}
